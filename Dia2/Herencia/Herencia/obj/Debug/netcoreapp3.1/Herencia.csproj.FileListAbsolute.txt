@@ -1,0 +1,11 @@
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csprojAssemblyReference.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
