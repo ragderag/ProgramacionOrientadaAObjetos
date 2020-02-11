@@ -1,0 +1,11 @@
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.exe
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.deps.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.runtimeconfig.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.runtimeconfig.dev.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\bin\Debug\netcoreapp3.1\Ejercicio6.pdb
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.csprojAssemblyReference.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.AssemblyInfo.cs
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio6\Ejercicio6\obj\Debug\netcoreapp3.1\Ejercicio6.pdb

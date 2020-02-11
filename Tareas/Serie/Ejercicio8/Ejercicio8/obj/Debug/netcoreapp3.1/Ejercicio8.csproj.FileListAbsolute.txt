@@ -1,0 +1,11 @@
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.csprojAssemblyReference.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.AssemblyInfo.cs
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.exe
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.deps.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.runtimeconfig.dev.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\bin\Debug\netcoreapp3.1\Ejercicio8.pdb
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio8\Ejercicio8\obj\Debug\netcoreapp3.1\Ejercicio8.pdb
