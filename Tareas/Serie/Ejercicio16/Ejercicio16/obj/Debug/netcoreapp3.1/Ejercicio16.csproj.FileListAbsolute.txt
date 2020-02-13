@@ -1,0 +1,11 @@
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\bin\Debug\netcoreapp3.1\Ejercicio16.exe
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\bin\Debug\netcoreapp3.1\Ejercicio16.deps.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\bin\Debug\netcoreapp3.1\Ejercicio16.runtimeconfig.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\bin\Debug\netcoreapp3.1\Ejercicio16.runtimeconfig.dev.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\bin\Debug\netcoreapp3.1\Ejercicio16.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\bin\Debug\netcoreapp3.1\Ejercicio16.pdb
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\obj\Debug\netcoreapp3.1\Ejercicio16.csprojAssemblyReference.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\obj\Debug\netcoreapp3.1\Ejercicio16.AssemblyInfoInputs.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\obj\Debug\netcoreapp3.1\Ejercicio16.AssemblyInfo.cs
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\obj\Debug\netcoreapp3.1\Ejercicio16.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio16\Ejercicio16\obj\Debug\netcoreapp3.1\Ejercicio16.pdb
