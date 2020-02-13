@@ -1,0 +1,10 @@
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\bin\Debug\netcoreapp3.1\Ejercicio18.exe
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\bin\Debug\netcoreapp3.1\Ejercicio18.deps.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\bin\Debug\netcoreapp3.1\Ejercicio18.runtimeconfig.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\bin\Debug\netcoreapp3.1\Ejercicio18.runtimeconfig.dev.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\bin\Debug\netcoreapp3.1\Ejercicio18.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\bin\Debug\netcoreapp3.1\Ejercicio18.pdb
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\obj\Debug\netcoreapp3.1\Ejercicio18.AssemblyInfoInputs.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\obj\Debug\netcoreapp3.1\Ejercicio18.AssemblyInfo.cs
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\obj\Debug\netcoreapp3.1\Ejercicio18.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\Serie\Ejercicio18\Ejercicio18\obj\Debug\netcoreapp3.1\Ejercicio18.pdb
