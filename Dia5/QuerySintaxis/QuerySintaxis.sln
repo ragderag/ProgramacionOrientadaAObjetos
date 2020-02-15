@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuerySintaxis", "QuerySintaxis\QuerySintaxis.csproj", "{CDB10F4C-1B89-4294-BCC2-5923B62E3A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB10F4C-1B89-4294-BCC2-5923B62E3A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB10F4C-1B89-4294-BCC2-5923B62E3A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB10F4C-1B89-4294-BCC2-5923B62E3A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB10F4C-1B89-4294-BCC2-5923B62E3A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABDA358-DF12-43E6-8417-04BFAB448B52}
+	EndGlobalSection
+EndGlobal

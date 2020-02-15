@@ -1,0 +1,11 @@
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\obj\Debug\netcoreapp3.1\QuerySintaxis.csprojAssemblyReference.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\obj\Debug\netcoreapp3.1\QuerySintaxis.AssemblyInfoInputs.cache
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\obj\Debug\netcoreapp3.1\QuerySintaxis.AssemblyInfo.cs
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\bin\Debug\netcoreapp3.1\QuerySintaxis.exe
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\bin\Debug\netcoreapp3.1\QuerySintaxis.deps.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\bin\Debug\netcoreapp3.1\QuerySintaxis.runtimeconfig.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\bin\Debug\netcoreapp3.1\QuerySintaxis.runtimeconfig.dev.json
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\bin\Debug\netcoreapp3.1\QuerySintaxis.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\bin\Debug\netcoreapp3.1\QuerySintaxis.pdb
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\obj\Debug\netcoreapp3.1\QuerySintaxis.dll
+C:\Users\Edgar\OneDrive - Coordinación de Seguridad de la Información\CERT\2.4 Programación orientada a objetos\VisualRepo\QuerySintaxis\QuerySintaxis\obj\Debug\netcoreapp3.1\QuerySintaxis.pdb
